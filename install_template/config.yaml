@@ -413,16 +413,16 @@ products:
   #       supported versions: [14]
     - name: SLES 12
       arch: x86_64
-      supported versions: [14]
+      supported versions: [2]
     - name: SLES 12
       arch: ppc64le
-      supported versions: [14]
+      supported versions: [2]
     - name: SLES 15
       arch: x86_64
-      supported versions: [14]
+      supported versions: [2]
     - name: SLES 15
       arch: ppc64le
-      supported versions: [14]
+      supported versions: [2]
   - name: MongoDB Foreign Data Wrapper
     platforms:
   #     - name: CentOS 7
@@ -451,16 +451,16 @@ products:
   #       supported versions: [11, 12, 13, 14]
     - name: SLES 12
       arch: x86_64
-      supported versions: [14]
+      supported versions: [5]
     - name: SLES 12
       arch: ppc64le
-      supported versions: [14]
+      supported versions: [5]
     - name: SLES 15
       arch: x86_64
-      supported versions: [14]
+      supported versions: [5]
     - name: SLES 15
       arch: ppc64le
-      supported versions: [14]
+      supported versions: [5]
   - name: MySQL Foreign Data Wrapper
     platforms:
   #     - name: CentOS 7
@@ -489,16 +489,16 @@ products:
   #       supported versions: [11, 12, 13, 14]
     - name: SLES 12
       arch: x86_64
-      supported versions: [14]
+      supported versions: [2]
     - name: SLES 12
       arch: ppc64le
-      supported versions: [14]
+      supported versions: [2]
     - name: SLES 15
       arch: x86_64
-      supported versions: [14]
+      supported versions: [2]
     - name: SLES 15
       arch: ppc64le
-      supported versions: [14]
+      supported versions: [2]
   - name: PostGIS
     platforms:
   #     - name: CentOS 7
@@ -527,16 +527,16 @@ products:
   #       supported versions: [11, 12, 13, 14]
     - name: SLES 12
       arch: x86_64
-      supported versions: [14]
+      supported versions: [3.1]
     - name: SLES 12
       arch: ppc64le
-      supported versions: [14]
+      supported versions: [3.1]
     - name: SLES 15
       arch: x86_64
-      supported versions: [14]
+      supported versions: [3.1]
     - name: SLES 15
       arch: ppc64le
-      supported versions: [14]
+      supported versions: [3.1]
   # - name: Postgres Enterprise Manager
   #   platforms:
   #     - name: CentOS 7
